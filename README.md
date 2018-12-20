@@ -3,4 +3,4 @@
 
 
 
-![https://github.com/cronusliang/X_factor/blob/master/img/gh_5f8572713f29_430.jpg]()
+![image](https://github.com/cronusliang/X_factor/blob/master/img/gh_5f8572713f29_430.jpg)
